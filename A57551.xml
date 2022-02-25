@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters between Mr. Robert Rogers, of Wakefield, and Mr. Thomas Walker, the present vicar there touching baptism.</title>
+            <author>Rogers, Robert, of Wakefield.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57551</idno>
+            <idno type="STC">Wing R1826A</idno>
+            <idno type="STC">ESTC R219734</idno>
+            <idno type="EEBO-CITATION">99831182</idno>
+            <idno type="PROQUEST">99831182</idno>
+            <idno type="VID">35645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35645)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2040:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters between Mr. Robert Rogers, of Wakefield, and Mr. Thomas Walker, the present vicar there touching baptism.</title>
+                  <author>Rogers, Robert, of Wakefield.</author>
+                  <author>Walker, Thomas, fl. 1656. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.G. for Richard Lowndes at the White-Lyon in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Cropped at head with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35645:1"/>
+            <pb facs="tcp:35645:1" rendition="simple:additions"/>
+            <p>LETTERS BETWEEN M<hi rend="sup">r</hi>. <hi>ROBERT ROGERS,</hi> OF WAKEFIELD, AND M<hi rend="sup">r</hi>. <hi>THOMAS WALKER,</hi> The preſent VICAR there, TOUCHING BAPTISM.</p>
+            <figure>
+               <figDesc>decorative flourish</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>Richard Lowndes</hi> at the White Lyon in St. <hi>Pauls</hi> Church-yard, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35645:2"/>
+            <pb facs="tcp:35645:2"/>
+            <head>The occaſion of theſe following Letters was this:</head>
+            <p>AN urgent neceſſity (an Infant unbaptized, and in imminent danger of death) put me upon it to goe to Mr. <hi>Walker</hi> our preſent Vicar at <hi>Wake<g ref="char:EOLhyphen"/>field</hi> upon the week day, to deſire from him (what I conceive was his duty, the Charge of Soules being at preſent upon him) that he would adminiſter the Ordinance to my weak Childe, partly that I might diſcharge the office of a Father, and that my Childe might not want the benefit of the Ordinance. After much impertinent diſcourſe, as of <hi>Christs going</hi> 50. <hi>miles to John to be Baptized,</hi> and the like, the main ground of his refuſall ſeem'd to be the want of a Congregation on the week day; and though I offered to bring ten or twenty perſons for a Congregation, and my Childe (notwithſtanding its weak<g ref="char:EOLhyphen"/>neſſe) to the Church, yet he ſtill refuſed, ſaying, <hi>It was contrary to his Judgement:</hi> although he had done it formerly to others) ſo the reſult was, That he neither would Baptize my childe in that neceſſity, nor give way to any other to doe that Chriſtian and charitable office for me within his pariſh.</p>
+            <p>Upon the Lords day following, after forenoon Sermon, I deſired him to ſa<g ref="char:EOLhyphen"/>tisfie me from the Word of God, how he could in conſcience diſpence with that neglect, and what the Scripture made out againſt Private Baptiſme in <hi>A caſe of neceſſity;</hi> He promiſed, and I expected ſatisfaction in the afternoon, where in ſtend of Scripture he produced the Rubrick of the Common-Prayer before Publick Baptiſme, and read it publickly to his People, ſo farre as he thought it might conduce to his purpoſe: but when he came to that expreſſion. <hi>Nevertheleſſe, (if Neceſſity ſo require) Children may at all times be Baptized at home,</hi> he left it out, and read it not, nor gave the Congregation any ſatisfaction in it; not much un<g ref="char:EOLhyphen"/>like the Devills quotation of Scripture, when he would have perſwaded Chriſt to have thrown himſelfe from the battlements of the Temple, ſo that wanting that ſatisfaction which he promiſed, and I expected from him, I ſent him this following Letter;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p> 
+                     <hi>It is the Word of God, not the Rubrick of the Common-Prayer muſt ſatisfie me in my deſire, whin you ſhall give me ſuch ſatisfaction, I hope you will doe it ingenu<g ref="char:EOLhyphen"/>ouſly, without adding or diminiſhing. I rather deſire an Argument</hi> ad rem, <hi>then</hi> ad hominem, <hi>I am unwilling to make any farther noiſe in the buſineſſe, if I may receiver ſatisfaction from you in writing under your hand, which when I have received, I ſhall ſubmit and remaine</hi>
+                  </p>
+                  <closer>
+                     <signed>Your friend, ROBERT ROGERS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Wakefield,</hi> 
+                        <date>March 6. 1655.</date>
+                     </dateline>
+                  </opener>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>Could heartily wiſh, that you were not rather inclined to cavill, then deſirous of ſatisfaction, which I have good ground to ſuſpect not onely from your carri<g ref="char:EOLhyphen"/>ge towards me, but alſo from your ſlighting and undervaluing the conſtant
+<pb facs="tcp:35645:3"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God<g ref="char:punc">▪</g> There is no ſober-minded, in<g ref="char:EOLhyphen"/>telligent Chriſtian, but will both ſuſpect and ſuſpend his Judgement, if differing from the generality of thoſe, that are Pious, and Learned; You cannot but know, if you underſtand any thing, that it is more proper for me than you in this particular to require ſatisfaction, becauſe you deſire me to do that (which as I told you, when you were with me) is againſt my judgement: according to which I am bound to act, otherwiſe I ſhould condemne my ſelfe in the things which I allow, con<g ref="char:EOLhyphen"/>trary to that of the Apoſtle, <hi>Rom.</hi> 14.22. But however I ſhall propound (ac<g ref="char:EOLhyphen"/>cording to your deſire) one or two particulars to your ſerious conſideration, and ſhall pray that God may ſet them home upon your ſpirit.</p>
+                  <p n="1">1. Duely weigh that Chriſts Baptiſme was not private, but publick, yea though Chriſt were put to much inconvenience thereby, as will appear from <hi>Math.</hi> 3.13: Now it is an unqueſtioned maxime amongſt Divines, both Epiſcopall and others, grounded upon <hi>Math.</hi> 11.29. that Chriſts morall acts (as this of ſubmiſſion to Baptiſme was, as appears from <hi>Math.</hi> 3.15.) are to be imitated by his people.</p>
+                  <p n="2">2. Conſider the nature of the Sacrament of Baptiſme, its a publique or<g ref="char:EOLhyphen"/>dinance, not private; now publique Ordinances are to be diſpenſed in a publique manner: That it is a publique Ordinance, I prove from Scripture, <hi>Math.</hi> 28.19. and alſo from the nature of the Ordinance it ſelfe, <hi>It being a Signe and Seale of Initiation into the Viſible Church.</hi> Whereas you deſired from me an expreſſe text of Scripture, that Baptiſme ought to be publique. I anſwer, that it is ſufficient if it be proved by direct conſequence from <hi>Scripture,</hi> though it be not expreſſed <hi>in terminis:</hi> There is no expreſſe example or precept in Scripture, either for Infant-Baptiſme, or for admiſſion of Women to the Sacrament of the Lords Supper, yet none of the Orthodoxe doe queſtion either, becauſe they may be gathered from Scriptures by direct conſequence: the Application is eaſie. Where<g ref="char:EOLhyphen"/>as you were offended that I ſhould leave out ſome part of the Rubrick in my quotation of it, be pleaſed to take notice, that I omitted the laſt clauſe therein, becauſe it would (had I read it) have occaſioned the reading of the Rubrick before private Baptiſme, for which there was then no time, however I deſire you read it at your leiſure, becauſe I thinke it will be of concernment to you, in reference to your childe; although I doe not own it as Scripture, yet I look upon it as agreeable unto Scripture. I ſhall rejoyce if God be pleaſed by theſe few lines to convince you of your error, ſo as to reclaim you; but if you perſiſt to cavill as heretofore, I ſhall endeavour to heed you no more therein, then Chriſt did the Phariſees in the like caſe: Whereas you ſay you are not willing to make any farther noiſe in this buſineſſe, I doe not ſee how with convenience or modeſty you can; but if you thinke the noyſe thereat will prejudice me, I ſhal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not deſire you to ſpare me: One thing more I ſhall hint to you (which <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you will cloſe with) that no Infants have right to the priviledge of Baptiſme, but thoſe that are born of <hi>Chriſtian Parents;</hi> whether you doe own the Princi<g ref="char:EOLhyphen"/>ples of the <hi>Chriſtian Faith</hi> I know not, (you never profeſſed ſo much to me, which in ſuch a caſe was requiſite) This I am ſure of, and others have been wit<g ref="char:EOLhyphen"/>neſſes thereof, that your carriage in this buſineſſe hath been no whit Chriſti<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> towards</p>
+                  <closer>
+                     <signed>Yours ſo farre as you are in Gods way, <hi>T. WALKER.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:35645:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I ſhould not have either troubled my ſelf or you with <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reply, if I could poſſible have picked the leaſt ſatisfaction from your letter, the doubt is thus ſtated; Whether (in caſe of neceſſity a Miniſter) be not bound to private Baptiſme, (though not upon the Lords day) the whole drift of your writing it to prove the practiſe and conveniency of publique Baptiſme, a thing never by me denied or queſtioned, nor I think by any ſober Chriſtian, ſo that your letter in effect is in my thoughts no more then a begging of the queſtion or ſhooting at Rovers without ever coming neere the mark.</p>
+                  <p>
+                     <hi>Sir,</hi> I ſhall no further take notice of your uncharitableneſſe in cenſuring, and the recrimination wherewith you have ſtuffed your paper, then to tell you how ſorry I am to ſee in a Preacher of the Kingdome of Chriſt ſo little of the Spirit of love and meekneſſe; when you ſhall ſatisfie me in the generality of the opinions of pious and learned men in the true point in queſtion, it is probable I may be convin<g ref="char:EOLhyphen"/>ced, in the mean time you cannot blame me if I dare not rely upon your own judg<g ref="char:EOLhyphen"/>ment, and by I know not what kind of implicite faith pin my conſcience upon your or any other mans ſleeve.</p>
+                  <p>I have but two things to ſpeak to in your letter, and I ſhall doe it, without any bitterneſſe; the one relates to your ſelf, the other to me; firſt, in one place you ſay you are not bound to act againſt your Judgement; in another that you looke upon the Common prayer though not as ſcripture, yet to be agreeable to Scripture; in my thoughts here is either a flat contradiction or ſome thing worſe; if in your judgement, the Common-prayer be agreeable to Scripture, you act againſt your judgement and conſcience, in denying my child private Baptiſme, which is a part of it, if it be not agreeable to Scripture you act againſt your judgement, and conſcience in quoting it, and affirming it to be ſo: if this be not either to contradict or condemn your ſelfe in that which you allow, having done that to others you denied to me, I referre it to every judicious and ſober-minded Chriſtian.</p>
+                  <p>The other relating to my ſelf, it the doubt you make of my Chriſtianity, in the cloſe of your letter, and you ſeem to keep this as your great engine to batter the fabrick, what cauſe you have in a ſetled Church for many hundred yeares to raiſe ſuch a doubt I know not, the rather where you have no cauſe to ſuſpect, and where you ſee a conſtant frequenting of the Ordinances, my earneſt deſire to you, for the Baptizing of my child, was I think a ſufficient Argument of my faith, to any moderate Chriſtian Spirit, where if you had doubted you might have examined me, though even in that of Examination I am dubious whether it be in your power; I believe there are ſtill many good Chriſtians in <hi>Wakefield</hi> who never were under your examination, and I doe think it to be very hard and un<g ref="char:EOLhyphen"/>charitable to judge or ſenſure any man for want of it. Other things thets are in your letter of leſſe moment, which I am unwilling to take notice of. <hi>Sir,</hi> my prayers ſhall be for your ſelf, and for all that ſerve at the Altar, that you may rather ſtudy to be enſamples to your flocks, then to Lord it over Gods heritage. If you pleaſe to give me an account or the Queſtion wherein not only my ſelf but the Pariſh is concerned, I ſhall not make uſe of any other Miniſters for my ſatis<g ref="char:EOLhyphen"/>faction in the point, in the means time I reſt</p>
+                  <closer>
+                     <signed>Yours <hi>ROBERT ROGERS</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:35645:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <salute>SIR,</salute>
+                  <p>I am very glad, that you are ſatisfied about the practiſe and convenience of publ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que Baptiſm, this had been enough, had you duely weighed it, to have engaged you to bring your child to publique Baptiſm, it was the rule which the Apoſtle obſerved, not to uſe his liberty in all things, that were lawfull, but onely thoſe things which were convenient. And it is an approved rule among Divines, that he that would keep a good conſcience in ſuch caſes, wherein there appeares any doubt, will make choice of the ſurer part, that is, that part wherein he may be ſure not to offend againſt the Lord; now I think you will not deny but you bad been on the ſurer part, had you brought it into the publique Congregation: Whereas you urge neceſſity, I anſwer, that it did not appeare to me to be a caſe of neceſſity, nor does yet appeare that it was ſo, if I ſhould grant to you that private Baptiſm were lawfull in caſe of neceſſity, yet I ſuppoſe you will not ſay that every one muſt be judge of the neceſſity, and if the Miniſter doe not ſo judge, I ſee not (that being duly conſidered above-written) how he can in con<g ref="char:EOLhyphen"/>ſcience proceed to Adminiſter it privately? you may accuſe me as farre as you pleaſe of want of love and meekneſſe, and have as low thoughts of me as you pleaſe in other reſpects, I bleſſe God he hath ſo farre given me a ſight of my ſelf, that none that know me think worſe of me, then I doe of my ſelf: All your tart expreſſions and harſh cenſures, together with your charging me with ſelf-contra<g ref="char:EOLhyphen"/>diction, or (to uſe your own words, ſomewhat worſe) ſhall not (I hope) make me out of charity with you, neither you, nor any other ſhall find me backward to expreſſe my ſelf, in any thing (wherein I may lawfully) as becomes a Miniſter of the Goſpell: that private Baptiſm is againſt the judgement of the Generality of Proteſtant Divines is cleare to me, and alſo may be to you, if you will but con<g ref="char:EOLhyphen"/>ſult Dr. <hi>
+                        <g ref="char:V">Ʋ</g>ſhers</hi> body of Divinity, the judgement of the laſt Aſſembly of Divines ſitting at <hi>Weſtminſter,</hi> as alſo the Common-prayer book, for that the compilers thereof were in their judgements againſt private Baptiſm appeares cleare to me, in that there is an expreſſe Injunction in caſe any had been baptized privately to make it afterwards publique: This you will find if you read the private Baptiſm. The contradiction with which you charge me is eaſily reconciled, if you doe but look upon my words, upon which you ground the aſperſion, you ſhall find that they relate not to all the Common prayer in the whole Syſteme of it, but onely to the Rubrick before private Baptiſm, which I look upon as agreeable to Scripture, let any unprejudicated underſtanding perſon read that paſſage of my letter, and if they doe not agree with me herein, I ſhall willingly be accounted a ſelf-contra<g ref="char:EOLhyphen"/>dicter, though I look upon that Rubrick as agreeable to Scripture, yet I am not obliged thereby to Adminiſter baptiſm privately, eſpecially when I am not ſatis<g ref="char:EOLhyphen"/>fied that it is a caſe of neceſſity. Whereas you charge me with deniall of that to you which I did to others, I anſwer that the caſe was very different: And I find the Apoſtle did the like, as you may ſee <hi>Acts</hi> 16.3. compared with <hi>Gal.</hi> 2.3. he Circumciſed <hi>Timothy,</hi> yet would not Circumciſe <hi>Titus,</hi> nor ſuffer it; you conſtant attendance upon Ordinances I commend; but this together with a de<g ref="char:EOLhyphen"/>ſire of having your child Baptized does not neceſſarily ſpeak you to be a Chriſtian though (for my own part) I never denied your Chriſtianity, but onely affirmed (which I ſtill think) that your carriage in this buſineſſe had not been Chriſtian
+<pb facs="tcp:35645:4"/>I have known many that have done both theſe, and yet have been guilty of ſuch groſſe ignorance as was inconſiſtent with Chriſtianity, taken in the largeſt ſenſe Whereas you queſtion my power of Examination, I ſhall refer you to what you heard lately in publick about that ſubject, from a perſon more able to ſatisfie you then I am, I have not ever yet heard one ſyllable of Reaſon or Scripture againſt it, no nor any Proteſtant Divine: I cannot as yet ſee any thing that ſhould make againſt it, except Ignorance, or Pride, or both: if you can ſhew me ſufficient grounds againſt it, I will leave it, and alſo give you many thanks, for it is a work that a man ſhall have little thanks for, and incurre much prejudice and diſpleaſure by which I have experimentally found, yet dare not leave it; wherein you ſee me domineer over the flock, or give ill example to it, tell me privately, and I ſhall en<g ref="char:EOLhyphen"/>deavour to rectifie it: That the Church of <hi>England</hi> hath been for many hundred years, or one hundred yeares ſetled, unleſſe in a Popiſh way, is wholly denyed by</p>
+                  <closer>
+                     <salute>Sir,</salute> 
+                     <signed>Yours as farre at he may for Chriſts ſake, <hi>T. WALKER.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Wakefield,</hi> 
+                        <date>March 1655.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <salute>SIR,</salute>
+                  <p>You ſhould have received a quicker anſwer to your Letter, but my <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at <hi>York,</hi> and ſome other neceſſary occaſions hindered me, I was upon the opening of your Letter full of expectance, in reference to my ſatisfaction in the caſe pro<g ref="char:EOLhyphen"/>pounded, but upon peruſall of your paper, inſtead of arguments from Scripture you fly to a poor ſhift of ſelfe-ſatisfaction, and make your ſelfe the Judge of the neceſſity, I ſhall refer my ſelfe to any impartiall perſon in your Congregation whether the Mother with the Midwife, and others imployed in buſineſſe of tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nature, be not the fitter Judges of the Sickneſſe and danger of an Infant, and conſequently of the preſſing neceſſity then your ſelfe, except you will take upo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you the office of a Midwife, as well as of the Miniſter:</p>
+                  <p>What you ſtill urge in reference to Publick Baptiſme, I ſtill ſay is farre from the matter in hand, or a meer begging or declining the Queſtion, I never de<g ref="char:EOLhyphen"/>nied it, nay I proffered you twenty perſons for a Congregation (Chriſt admit of a leſſe number) becauſe you ſeemed to ſtand upon that, alſo to bring my childe to the Church, though then in great weakneſſe, did not I herein chuſe the ſurer part? but it ſeems twenty are not a Congregation without a Sermon, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Expoſition, and that is not to be had on the week day without hire. How wel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Demetrius</hi> playes his part, while good Soules grieve to ſee Chriſt and his Ordi<g ref="char:EOLhyphen"/>nance thus bought and ſold!</p>
+                  <p>That the Compilers of Common Prayer were in their judgements againſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Private Baptiſme, where Publick might be had without danger of the Infant, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> deny not, but in ſuch a caſe (which is the queſtion in hand) their judgement are for it, as appeares by the Rubrick, elſe they man not Compiled it, nor ſub<g ref="char:EOLhyphen"/>ſcribed a forme for it, your owne argument returnes upon your ſelfe, I could have wiſhed ſatisfaction rather then ſophiſtry; Dr. <hi>
+                        <g ref="char:V">Ʋ</g>ſher</hi> I have an honourable and reverend opinion of, when you ſhall ſatisfie me out of him, I ſhall ſay no more to you, in the meane time I have ſo much charity as to thinke you will no belye him.</p>
+                  <pb facs="tcp:35645:5"/>
+                  <p>That contradiction is not yet ſolved, though your own interpretation be al<g ref="char:EOLhyphen"/>lowed, if private Baptiſm in a caſe of neceſſity be agreeable to Scripture, why doe you not accordingly Adminiſter it? if not, why doe you ſay it is, and quote it publiquely as an Authority? this is either to contradict or condemn your ſelf in what you allow, that poore ſtarting hole of ſelf-ſatisfaction into which you run againe when all helps faile you, will not cleare the contradiction in the eye of any knowing man.</p>
+                  <p>That of the holy Apoſtles circumciſing of <hi>Timothy</hi> and not of <hi>Titus,</hi> whereby you would juſtifie the Adminiſtring of Baptiſm to other mens Children and not to mine, is (if you had well underſtood your ſelf) little to the purpoſe, the Apoſtle did it to avoid offence to Jew and Gentile, he became all things to all men, that he might by all meanes ſave ſome; it was that he might gaine both and loſe neither: how farre this is from your practiſe, I referre to the whole Congre<g ref="char:EOLhyphen"/>gation and to your own heart, offences are multiplied, weake Chriſtians troubled with your practiſes, a party ſo adhered unto, that the reſt are wholly caſt off, your partiality noted by all the people, beſides Saint <hi>Pauls</hi> example in the infancy of the Church in matter of practiſe, cannot alwayes be a rule to us, witneſſe one example for all, his ſhaving at <hi>Concrea, Act.</hi> 18.18: I know not whether your Argument be guilty of more irreverence or folly.</p>
+                  <p>For your great <hi>Diana</hi> of examination, you referre me I know not whom, and therefore leave it: you tell me that neither Reaſon nor Scripture ſpeak againſt it, methinks it is a weak way of arguing, yet if you allow but the ſame for private Baptiſm, your argument deſtroyes your ſelfe, what ever the Scriptures ſay of Ex<g ref="char:EOLhyphen"/>amination, I am ſure your practice makes it neceſſary to the Ordinance, ſo as it cannot be had without it, and the neglect of it dangerous: and if that practice be without poſitive grounds from Scripture, you know where your thanks muſt be.</p>
+                  <p>My Chriſtian wiſh you apply your ſelf, but ſince you deſire it, I ſhall with privacy propound theſe queſtions to you, what think you of him who ſhall in the face of a Congregation examine the Father of a child upon the accompt, paſſing by all others who had their Children baptiſed the ſame time, what think you of him who ſhall Baptiſe a child without prayer before, or Thankſgiving after Baptiſm? what think you of him who for want of examination and not giving in his name, ſhall turne a man out by head and ſhoulders from the Sacrament of the Lords Supper? what think you of him who before morning Sermon ſhall refuſe to Baptize a weake child upon the intreaty of the Parent, and then Baptize it af<g ref="char:EOLhyphen"/>ter Sermon when it is either dead or at the point of death? what do you think of him that ſhall publiquely deny the Supremacy of the civill power in cauſes Ec<g ref="char:EOLhyphen"/>cleſiaſtica<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> diſtracting the flock, and withdrawing them from their obedience? if this be not to Lord it over Gods heritage, I know not what is, I hope you will letter conſider of theſe things, in the meane time I am</p>
+                  <closer>
+                     <signed>Yours ſo far as you are a Son of Peace. <hi>ROBERT ROGERS.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Wakefield</hi> 
+                        <date>the 12 of <hi>Aprill</hi> 1656.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I have not received any anſwer of this laſt Letter, therefore I Printed theſe Letters in hope that they may fall into the hands of ſome Godly and Learned Divine, that will endeavour to give the <hi>Church of God</hi> ſatisfaction in this point.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35645:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
